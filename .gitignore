@@ -1,0 +1,21 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Database
+*.db
+
+# IDE
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# MacOS
+.DS_Store
